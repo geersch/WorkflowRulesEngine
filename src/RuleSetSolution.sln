@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedClassLibrary", "SharedClassLibrary\SharedClassLibrary.csproj", "{BCA6188F-9409-421F-A8A4-5881748FDFD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedRuleSets", "SharedRuleSets\SharedRuleSets.csproj", "{9AF69557-BC0C-45D9-9839-ADF63D650CE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonSalutationDemo", "PersonSalutationDemo\PersonSalutationDemo.csproj", "{02A79320-9C4A-416A-BA9A-1D4EE4D6EC20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCA6188F-9409-421F-A8A4-5881748FDFD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA6188F-9409-421F-A8A4-5881748FDFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA6188F-9409-421F-A8A4-5881748FDFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA6188F-9409-421F-A8A4-5881748FDFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AF69557-BC0C-45D9-9839-ADF63D650CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF69557-BC0C-45D9-9839-ADF63D650CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF69557-BC0C-45D9-9839-ADF63D650CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF69557-BC0C-45D9-9839-ADF63D650CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02A79320-9C4A-416A-BA9A-1D4EE4D6EC20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A79320-9C4A-416A-BA9A-1D4EE4D6EC20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A79320-9C4A-416A-BA9A-1D4EE4D6EC20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A79320-9C4A-416A-BA9A-1D4EE4D6EC20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
